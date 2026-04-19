@@ -21,7 +21,3 @@ This project is a simple assembly calculator for the SMZ32V50 microcontroller.
 | `Project Final.ASM` | Main assembly source code |
 | `sms32v50.INI` | Configuration file for the simulator/microcontroller environment |
 
-## Note
-
-This repository contains only the source code and necessary configuration files.
-Project reports and presentation files are not included.
